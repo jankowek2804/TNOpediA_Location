@@ -10,3 +10,5 @@ create_map(
     alliance_to_show='Einheitspakt',
     output_svg='Polando.svg'
 )
+
+the results may need fixing in some svg editing software as errors may occur
