@@ -12,3 +12,6 @@ create_map(
 )
 
 the results may need fixing in some svg editing software as errors may occur
+
+Known issues:
+1. countries and territories located near the edge of the image may have issues regarding their infill, solution is to edit them in svg editing software by moving path endpoints far out of the globe
